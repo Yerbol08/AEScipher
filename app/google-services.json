@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "818196404404",
+    "firebase_url": "https://aesdiploma-a3e54-default-rtdb.firebaseio.com",
+    "project_id": "aesdiploma-a3e54",
+    "storage_bucket": "aesdiploma-a3e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818196404404:android:8183c227ac3a4270741fe1",
+        "android_client_info": {
+          "package_name": "com.enu.aes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818196404404-51q7cn57sv7t4s46bk0sse177ls6ua9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JBWXWBBjIPxdMYdmO7vg1FkonJ9MIIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818196404404-51q7cn57sv7t4s46bk0sse177ls6ua9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818196404404:android:d944598ff338c722741fe1",
+        "android_client_info": {
+          "package_name": "com.example.aescipher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818196404404-51q7cn57sv7t4s46bk0sse177ls6ua9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JBWXWBBjIPxdMYdmO7vg1FkonJ9MIIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818196404404-51q7cn57sv7t4s46bk0sse177ls6ua9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

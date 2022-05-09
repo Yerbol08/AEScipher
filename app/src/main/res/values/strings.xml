@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AEScipher</string>
+
+    <string name="create_account">Создать аккаунт</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="i_am_a_new_user">Я новый пользователь</string>
+    <string name="sign_in">Войти</string>
+    <string name="i_m_already_a_member">У меня уже есть аккаунт</string>
+    <string name="default_hint">Input text</string>
+</resources>
